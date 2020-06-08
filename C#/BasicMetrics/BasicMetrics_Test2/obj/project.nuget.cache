@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "saFdR27uhywZUTNSELq4WYWxfBf9fTCF4/KVuHUPEeYtiLHWoQaYzOzAfgchGxLnPbBizH7Mw5UN8TOJJXzleg==",
+  "success": true,
+  "projectFilePath": "C:\\source\\IntegrationTest\\C#\\BasicMetrics\\BasicMetrics_Test2\\BasicMetrics_Test2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlfonsoSarmientoRaez\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
